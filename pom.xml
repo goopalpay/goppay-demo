@@ -188,10 +188,10 @@
 
 
     <modules>
-        <module>pay-member-merchant-access-launcher</module>
-        <module>pay-member-merchant-service</module>
-        <module>pay-member-merchant-dao</module>
-        <module>pay-member-merchant-common</module>
+        <module>#{childartiId}-access-launcher</module>
+        <module>#{childartiId}-service</module>
+        <module>#{childartiId}-dao</module>
+        <module>#{childartiId}-common</module>
     </modules>
 
 
